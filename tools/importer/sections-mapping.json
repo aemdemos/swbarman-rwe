@@ -1,0 +1,496 @@
+{
+  "url": "https://www.rwe.com/en/",
+  "sanitizedPath": "/en/index",
+  "autoDetect": false,
+  "mapping": [
+    {
+      "id": "1",
+      "path": "/nav",
+      "sections": [
+        {
+          "id": "1-1",
+          "blocks": [
+            {
+              "id": "box-id--2034588018",
+              "x": 0,
+              "y": 0,
+              "width": 2899,
+              "height": 130,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgb(148, 0, 211)",
+              "mapping": "header",
+              "customBlockName": "header"
+            }
+          ],
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "path": "/en/index",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id-253484332",
+              "x": 0,
+              "y": 0,
+              "width": 2899,
+              "height": 1708,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[1]",
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/div[@class=\"container-fluid\"]/div[@class=\"row\"]/div[@class=\"sli01--stage-components sli01--autoplay\"]/div[@class=\"slider-container\"]/div[@class=\"slider-prev icon-arrow-left slick-arrow\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/div[@class=\"container-fluid\"]/div[@class=\"row\"]/div[@class=\"sli01--stage-components sli01--autoplay\"]/div[@class=\"slider-container\"]/div[@class=\"slider-next icon-arrow-right slick-arrow\"]"
+                }
+              ],
+              "color": "rgba(75, 0, 130, 0.3)",
+              "mapping": "defaultContent",
+              "customBlockName": "ai-default-carousel"
+            },
+            {
+              "id": "box-id-253484363",
+              "x": 0,
+              "y": 1708,
+              "width": 2899,
+              "height": 307,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[2]",
+              "layout": {
+                "numCols": 1,
+                "numRows": 2
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content col-sm-12\"]/div[@class=\"short-news\"]/div[@class=\"short-news__header color__font--gradient-green\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content col-sm-12\"]/div[@class=\"short-news\"]/div[@class=\"short-news__slider\"]"
+                }
+              ],
+              "color": "rgba(75, 0, 130, 0.3)",
+              "mapping": "defaultContent",
+              "customBlockName": "ai-default-carousel-1"
+            },
+            {
+              "id": "box-id-253484394",
+              "x": 0,
+              "y": 2015,
+              "width": 2899,
+              "height": 521,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[3]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(75, 0, 130, 0.3)",
+              "mapping": "defaultContent",
+              "customBlockName": "ai-default-columns-1"
+            },
+            {
+              "id": "box-id-253484425",
+              "x": 0,
+              "y": 2536,
+              "width": 2899,
+              "height": 234,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[4]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(75, 0, 130, 0.3)",
+              "mapping": "defaultContent",
+              "customBlockName": "ai-text-center"
+            },
+            {
+              "id": "box-id--732901740",
+              "x": 864,
+              "y": 2802,
+              "width": 1170,
+              "height": 596,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[5]/div[1]/div[1]/div[1]/section[1]",
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[5]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"color-background-2 energy-waves-grid\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content col-sm-12\"]/section[@class=\"bottom-to-top-animation animate\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-1 col-xs-12 col-md-9\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[5]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"color-background-2 energy-waves-grid\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content col-sm-12\"]/section[@class=\"bottom-to-top-animation animate\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-2 col-xs-12 col-md-3\"]"
+                }
+              ],
+              "color": "rgba(75, 0, 130, 0.1)",
+              "mapping": "defaultContent",
+              "customBlockName": "ai-default-columns-2"
+            },
+            {
+              "id": "box-id--732901709",
+              "x": 864,
+              "y": 3398,
+              "width": 1170,
+              "height": 578,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[5]/div[1]/div[1]/div[1]/section[2]",
+              "layout": {
+                "numCols": 3,
+                "numRows": 2
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[5]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"color-background-2 energy-waves-grid\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content col-sm-12\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-1 col-md-4 col-sm-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[5]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[4]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"color-background-2 energy-waves-grid\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content col-sm-12\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-4 col-md-4 col-sm-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[5]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[5]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"color-background-2 energy-waves-grid\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content col-sm-12\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-5 col-md-4 col-sm-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[5]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[6]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"color-background-2 energy-waves-grid\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content col-sm-12\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-6 col-md-4 col-sm-6\"]"
+                }
+              ],
+              "color": "rgba(75, 0, 130, 0.1)",
+              "mapping": "cards",
+              "customBlockName": "ai-cards-1"
+            },
+            {
+              "id": "box-id--732901678",
+              "x": 864,
+              "y": 3977,
+              "width": 1170,
+              "height": 186,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[5]/div[1]/div[1]/div[1]/section[3]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(75, 0, 130, 0.1)",
+              "mapping": "defaultContent",
+              "customBlockName": "ai-text-default"
+            },
+            {
+              "id": "box-id--1879209582",
+              "x": 0,
+              "y": 4195,
+              "width": 2899,
+              "height": 1236,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[6]/div[1]/div[1]/article[1]/a[1]/div[1]/video[1]",
+              "layout": {
+                "numCols": 1,
+                "numRows": 2
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[7]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"color-background-2 energy-waves-grid\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[8]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content col-sm-12\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content col-sm-12\"]/div[@class=\"tic02--centered\"]/h2[@class=\"headline headline--bold\"]"
+                }
+              ],
+              "color": "rgba(75, 0, 130, 0.3)",
+              "mapping": "hero",
+              "customBlockName": "ai-hero"
+            },
+            {
+              "id": "box-id-253484518",
+              "x": 0,
+              "y": 4795,
+              "width": 2899,
+              "height": 564,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[7]",
+              "layout": {
+                "numCols": 3,
+                "numRows": 1
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[7]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"color-background-2 energy-waves-grid\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-1 col-md-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[7]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"color-background-2 energy-waves-grid\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-2 col-md-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[7]/div[1]/div[1]/div[3]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"color-background-2 energy-waves-grid\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-3 col-md-4\"]"
+                }
+              ],
+              "color": "rgba(75, 0, 130, 0.2)",
+              "mapping": "cards",
+              "customBlockName": "ai-cards-2"
+            },
+            {
+              "id": "box-id-481650737",
+              "x": 864,
+              "y": 5391,
+              "width": 1170,
+              "height": 221,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[8]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(75, 0, 130, 0.1)",
+              "mapping": "defaultContent",
+              "customBlockName": "ai-default-1"
+            },
+            {
+              "id": "box-id--1951393008",
+              "x": 864,
+              "y": 6084,
+              "width": 1170,
+              "height": 516,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[8]/div[1]/div[1]/div[1]/section[2]",
+              "layout": {
+                "numCols": 3,
+                "numRows": 1
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[8]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content col-sm-12\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-1 col-md-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[8]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content col-sm-12\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-2 col-md-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[8]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[3]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content col-sm-12\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-3 col-md-4\"]"
+                }
+              ],
+              "color": "rgba(75, 0, 130, 0.2)",
+              "mapping": "cards",
+              "customBlockName": "ai-cards-3"
+            },
+            {
+              "id": "box-id--925901040",
+              "x": 864,
+              "y": 6664,
+              "width": 1170,
+              "height": 132,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[9]/div[1]/div[1]/div[1]/section[1]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(75, 0, 130, 0.2)",
+              "mapping": "defaultContent",
+              "customBlockName": "ai-text-default-2"
+            },
+            {
+              "id": "box-id--925901009",
+              "x": 864,
+              "y": 6796,
+              "width": 1170,
+              "height": 385,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[9]/div[1]/div[1]/div[1]/section[2]",
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[9]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"color-background-2 energy-waves-grid\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content col-sm-12\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-1 col-md-8\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/section[9]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/section[@class=\"color-background-2 energy-waves-grid\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content col-sm-12\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-2 col-md-4\"]"
+                }
+              ],
+              "color": "rgba(75, 0, 130, 0.2)",
+              "mapping": "defaultContent",
+              "customBlockName": "ai-default-columns-3"
+            },
+            {
+              "id": "box-id--1380111563",
+              "x": 864,
+              "y": 7245,
+              "width": 1170,
+              "height": 38,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/article[1]/div[1]/header[1]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(75, 0, 130, 0.2)",
+              "mapping": "defaultContent",
+              "customBlockName": "ai-text-heading"
+            },
+            {
+              "id": "box-id-1479508635",
+              "x": 864,
+              "y": 7283,
+              "width": 1170,
+              "height": 416,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/article[1]/div[1]/div[1]",
+              "layout": {
+                "numCols": 3,
+                "numRows": 1
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/div[@class=\"container\"]/div[@class=\"content\"]/section[@class=\"wobble-animation-trigger three-wobble animate\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-1 col-md-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/div[@class=\"container\"]/div[@class=\"content\"]/section[@class=\"wobble-animation-trigger three-wobble animate\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-2 col-md-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/main[1]/article[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[3]",
+                  "xpathWithDetails": "id(\"off-screen-content\")/div[@class=\"container\"]/div[@class=\"content\"]/section[@class=\"wobble-animation-trigger three-wobble animate\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-3 col-md-4\"]"
+                }
+              ],
+              "color": "rgba(75, 0, 130, 0.2)",
+              "mapping": "cards",
+              "customBlockName": "ai-cards-4"
+            }
+          ],
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "path": "/footer",
+      "sections": [
+        {
+          "id": "3-1",
+          "blocks": [
+            {
+              "id": "box-id-873707956",
+              "x": 0,
+              "y": 7731,
+              "width": 2899,
+              "height": 59,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/nav[1]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(75, 0, 130, 0.4)",
+              "mapping": "defaultContent",
+              "customBlockName": "ai-default-footer"
+            },
+            {
+              "id": "box-id-1302426080",
+              "x": 0,
+              "y": 7808,
+              "width": 2899,
+              "height": 203,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/footer[1]/section[2]/div[1]/section[1]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(75, 0, 130, 0.2)",
+              "mapping": "defaultContent",
+              "customBlockName": "ai-default-footer-1"
+            },
+            {
+              "id": "box-id-1302426111",
+              "x": 0,
+              "y": 8011,
+              "width": 2899,
+              "height": 161,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/footer[1]/section[2]/div[1]/section[2]",
+              "layout": {
+                "numCols": 3,
+                "numRows": 1
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/footer[1]/section[2]/div[1]/section[2]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"main-footer\")/div[@class=\"teaser-width\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-1 col-md-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/footer[1]/section[2]/div[1]/section[2]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"main-footer\")/div[@class=\"teaser-width\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-2 col-md-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/footer[1]/section[2]/div[1]/section[2]/div[1]/div[1]/div[3]",
+                  "xpathWithDetails": "id(\"main-footer\")/div[@class=\"teaser-width\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-3 col-md-4\"]"
+                }
+              ],
+              "color": "rgba(75, 0, 130, 0.2)",
+              "mapping": "defaultContent",
+              "customBlockName": "ai-footer-columns-1"
+            },
+            {
+              "id": "box-id-1302426173",
+              "x": 0,
+              "y": 8222,
+              "width": 2899,
+              "height": 377,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/footer[1]/section[2]/div[1]/section[4]",
+              "layout": {
+                "numCols": 3,
+                "numRows": 1
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/footer[1]/section[2]/div[1]/section[4]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"main-footer\")/div[@class=\"teaser-width\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-1 col-md-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/footer[1]/section[2]/div[1]/section[4]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"main-footer\")/div[@class=\"teaser-width\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-2 col-md-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/footer[1]/section[2]/div[1]/section[4]/div[1]/div[1]/div[3]",
+                  "xpathWithDetails": "id(\"main-footer\")/div[@class=\"teaser-width\"]/div[@class=\"container\"]/div[@class=\"row\"]/div[@class=\"grid-content grid-content-3 col-md-4\"]"
+                }
+              ],
+              "color": "rgba(75, 0, 130, 0.2)",
+              "mapping": "defaultContent",
+              "customBlockName": "ai-footer-columns-2"
+            },
+            {
+              "id": "box-id--1263426957",
+              "x": 0,
+              "y": 8599,
+              "width": 2899,
+              "height": 75,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[4]/footer[1]/section[3]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(75, 0, 130, 0.3)",
+              "mapping": "defaultContent",
+              "customBlockName": "ai-footer-columns-3"
+            }
+          ],
+          "settings": {}
+        }
+      ]
+    }
+  ]
+}
